@@ -1,9 +1,13 @@
-## Oi! Me chamo Juan felipe
+## Olá!! Me chamo Juan felipe
 
-- 💻 Estudante de ciência da computação
-- 🌌 Entusiasta pelo universo
+<div align="center">
+Eu sou um estudante do 3° ano de ciência da computação da universidade cruzeiro do sul. Sou apaixonado por tecnologia e tudo relacionado ao universo! Gosto de explorar tudo que é novo e diferente, para resolver os problemas do dia a dia.
+</div>
 
 
+
+
+## 
 
 <div align="center">
   <a href="https://github.com/felipejuan5">
@@ -11,7 +15,9 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipejuan5&layout=compact&langs_count=7&theme=algolia"/>
 </div>
 
-</div>
+## Technology Stack 
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Juan-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />       
