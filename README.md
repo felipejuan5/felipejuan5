@@ -1,7 +1,7 @@
 ## Olá!! Me chamo Juan felipe
 
 <div align="center">
-Eu sou um estudante do 3° ano de ciência da computação da universidade cruzeiro do sul. Sou apaixonado por tecnologia e tudo relacionado ao universo! Gosto de explorar tudo que é novo e diferente, para resolver os problemas do dia a dia.
+Eu sou um estudante do 4° ano de ciência da computação da universidade cruzeiro do sul. Sou apaixonado por tecnologia e tudo relacionado ao universo! Gosto de explorar tudo que é novo e diferente, para resolver os problemas do dia a dia.
 </div>
 
 
